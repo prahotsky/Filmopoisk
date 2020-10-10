@@ -2,7 +2,7 @@
 
 2. Go to server directory
 
-### `cd server`
+### `cd Filmopoisk/server`
 
 3. Install npm packages
 
@@ -16,7 +16,7 @@ By default, the server tries to connect to MongoDB at localhost:27017. This can 
 
 5. Run server
 
-### `npm start`
+### `npm run dev`
 
 6. Go to client directory
 

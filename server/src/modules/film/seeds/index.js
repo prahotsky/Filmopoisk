@@ -16,6 +16,7 @@ const initFilms = async () => {
   });
   // parse genre ObjectIds to film
   // TODO: refactor it
+  await Film.deleteMany({});
   await Film.insertMany(mappedInitialData);
 };
 
