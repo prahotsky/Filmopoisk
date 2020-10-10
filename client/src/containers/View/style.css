@@ -1,0 +1,6 @@
+.view {
+  max-height: 80vh;
+  flex-basis: 80%;
+  overflow: scroll;
+  padding: 16px 24px;
+}

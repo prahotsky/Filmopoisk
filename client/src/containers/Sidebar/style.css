@@ -1,0 +1,15 @@
+.sidebar {
+  min-width: 200px;
+  width: 200px;
+  background: #1f1f1f;
+  padding: 16px;
+}
+
+.logo-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 150px;
+}

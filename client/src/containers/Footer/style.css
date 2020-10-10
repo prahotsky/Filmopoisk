@@ -1,0 +1,6 @@
+.footer {
+  flex-basis: 10%;
+  background-color: #f4f4f4;
+  box-shadow: 0 -1px 3px rgba(71, 78, 98, 0.25), 0 -1px 0 rgba(71, 78, 98, 0.05);
+  position: relative;
+}

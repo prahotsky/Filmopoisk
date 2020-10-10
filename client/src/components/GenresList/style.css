@@ -1,0 +1,11 @@
+.genres-list {
+  margin-top: 32px;
+}
+
+.genres-list__link {
+  display: block;
+  color: #ffffff;
+  margin-top: 8px;
+  cursor: pointer;
+  font-family: "Roboto", Sans-Serif;
+}
